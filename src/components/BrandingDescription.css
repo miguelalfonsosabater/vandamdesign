@@ -147,7 +147,7 @@
     .CloseButtonMobile {
         visibility: visible;
         position: absolute;
-        right: 60;
+        right: 25px;
         top: 0;
         padding: 15px;
         box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -172,8 +172,8 @@
     
     
     .LogoItself{
-        width: 100px;
-        height: 100px;
+        width: 80px;
+        height: 80px;
     }
     
     .BrandDetailsContainer{
