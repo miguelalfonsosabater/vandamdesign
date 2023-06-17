@@ -127,13 +127,14 @@
 @media (max-width: 768px) {
 
     .brandingBackground {
-        position: absolute;
-
+        position: relative;
+        left: 0;
         height: auto;
         width: 100vw;
         position: fixed;
         background: rgba(20, 20, 20, 0.453);
         overflow-y: scroll;
+        z-index: 999;
     }
 
     .BrandingContainer{

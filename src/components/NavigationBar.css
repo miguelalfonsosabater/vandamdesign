@@ -90,6 +90,10 @@ Button:hover{
         padding: 20px 50px;
     }
 
+    #NameMiguel{
+        color: #292929;
+    }
+
     .menu {
         display: none;
         z-index: 999;

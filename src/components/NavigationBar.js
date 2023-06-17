@@ -12,7 +12,7 @@ const NavigationBar = () => {
 
     return (
         <nav>
-            <div className="logo"> <a href="#LottieSection">MIGUEL SABATER </a>   </div>
+            <a href="#LottieSection" id='NameMiguel'> <div className="logo"> MIGUEL SABATER </div> </a>
             <div className={`menu ${isMobileMenuOpen ? 'open' : ''}`}>
                 <ul>
                     <li><a href="#LottieSection" onClick={toggleMobileMenu}>HOME</a></li>
