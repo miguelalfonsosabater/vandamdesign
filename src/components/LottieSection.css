@@ -1,0 +1,105 @@
+.LottieContainer {
+    padding-top: 100px;
+    height: 100vh;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.lottieItself {
+    height: 400px;
+    width: auto;
+}
+
+.LottieText {
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: -80px;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+}
+
+/* Add blinking cursor animation */
+@keyframes blink-caret {
+
+    from,
+    to {
+        border-color: transparent;
+    }
+    50% {
+        border-color: #292929;
+    }
+}
+
+/* Apply styles to the <p> element */
+.LottieText {
+    font-family: monospace;
+    overflow: hidden;
+    /* Ensures the text doesn't show outside the element */
+    border-right: 2px solid #292929;
+    /* Creates the blinking cursor effect */
+    white-space: nowrap;
+    /* Prevents text wrapping */
+    margin: 0;
+    /* Removes default margin */
+    padding: 0;
+    /* Removes default padding */
+    animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+
+}
+
+
+/* arrowdown */
+
+.blinkArrowContainer{
+    margin-top: -200px;
+}
+
+.blink-arrow {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    margin-top: -200px;
+    margin: 50px auto;
+}
+
+.blink-arrow2{
+    margin-top: -90px;
+}
+
+.blink-arrow::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 15px solid #292929;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}

@@ -1,0 +1,252 @@
+.brandingBackground {
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    background: rgba(20, 20, 20, 0.453);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.CloseButton {
+    border-radius: 0px 20px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.CloseButton:hover,.CheckWebsiteButton:hover{
+    transform: scale(1.2);
+
+}
+
+
+/* CSS FOR THE TOP SECTION */
+
+.BrandingTop{
+    display: flex;
+    flex-flow: row;
+}
+
+.LogoContainer {
+    background-color: rgb(74, 74, 147);
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.LogoItself{
+    width: 300px;
+    height: 300px;
+}
+
+.BrandDetailsContainer{
+    /* background-color: rgb(74, 74, 147); */
+    position: relative;
+    height: 260px;
+    width: 680px;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    
+}
+
+.BrandName{
+    color: white;
+}
+
+.BrandAbout{
+    margin: 20px 0px;
+    width: 650px;
+    text-align: justify;
+    color: white;
+    
+}
+
+/* CSS FOR THE BOTTOM SECTION */
+
+.BrandingBottom{
+    /* background-color: rgb(74, 74, 147); */
+    height: 400px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.BrandingBottom{
+    padding: 20px 20px 0px 20px;
+}
+
+.PosterSampleContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.SocMedSample{
+    color: white;
+
+}
+
+.imageSample{
+    width: 300px;
+    height: 300px;
+
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.samplePosterImage{
+    width: 280px;
+    height: 280px;
+    border-radius: 20px;
+}
+
+.imageSample:hover{
+    transform: scale(1.1);
+}
+
+.CloseButtonMobile {
+    visibility: hidden;
+}
+
+
+
+
+@media (max-width: 768px) {
+
+    .brandingBackground {
+        position: absolute;
+
+        height: auto;
+        width: 100vw;
+        position: fixed;
+        background: rgba(20, 20, 20, 0.453);
+        overflow-y: scroll;
+    }
+
+    .BrandingContainer{
+        position: relative;
+        top: 50px;
+        height: 100vh;
+
+    }
+    
+    .CloseButtonMobile {
+        visibility: visible;
+        position: absolute;
+        right: 60;
+        top: 0;
+        padding: 15px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+
+    .CloseButton{
+        visibility: hidden;
+    }
+    
+    .CloseButton:hover,.CheckWebsiteButton:hover{
+        transform: scale(1.2);
+    
+    }
+    
+    
+    /* CSS FOR THE TOP SECTION */
+    
+    .BrandingTop{
+        display: block;
+        flex-flow: row;
+    }
+    
+    
+    .LogoItself{
+        width: 100px;
+        height: 100px;
+    }
+    
+    .BrandDetailsContainer{
+        /* background-color: rgb(74, 74, 147); */
+        position: relative;
+        height: auto;
+        width: 300px;
+        border-radius: 20px;
+        margin: 20px;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .BrandName{
+        color: white;
+    }
+    
+    .BrandAbout{
+        margin: 10px 0px;
+        width: 300px;
+        text-align: justify;
+        color: white;
+        
+    }
+    
+    /* CSS FOR THE BOTTOM SECTION */
+    
+    .BrandingBottom{
+        /* background-color: rgb(74, 74, 147); */
+        height: auto;
+        border-radius: 20px;
+        margin: 20px;
+    }
+    
+    .BrandingBottom{
+        padding: 20px;
+    }
+    
+    .PosterSampleContainer{
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .SocMedSample{
+        color: white;
+    }
+    
+    .imageSample{
+        width: 250px;
+        height: 250px;
+        margin: 20px;
+        border-radius: 20px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .samplePosterImage{
+        width: 240px;
+        height: 240px;
+        border-radius: 20px;
+    }
+    
+    .imageSample:hover{
+        transform: scale(1.1);
+    }
+    
+
+
+}

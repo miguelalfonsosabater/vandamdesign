@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "logo": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1670125705/BUBBLE-HEAVEN-1SADASDAS-1024x1024_umqiv7.jpg",
+        "brandname":"Buble Heaven",
+        "details": "where taste meets bliss! Nestled in the heart of Canada, our vibrant milk tea and refreshing drinks shop is a haven for tea enthusiasts and flavor seekers. Immerse yourself in the delightful world of bubble teas, bursting with tantalizing flavors and perfectly balanced sweetness. From classic milk teas to fruit-infused creations, every sip is an adventure. Step into Bubble Heaven and elevate your taste buds to new heights of pure refreshment.",
+        "image1": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686810411/BH1_gwdmym.jpg",
+        "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686810408/BH2_zpkvyc.jpg",
+        "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686810408/BH3_secvzf.jpg",
+        "backgroundColor": "#0c75b8",
+        "buttonColor": "#fbd800"
+    },
+
+    {
+        "id": 2,
+        "logo": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686037136/FUNBSQUARE_j3fze2.jpg",
+        "brandname":"Funnel Builder Academy",
+        "details": "A premier provider of sales funnel creation, SEO optimization, and website development services. Based in the Philippines, Funnel Builders cater to clients worldwide. Our dedicated team of experts specializes in designing high-converting sales funnels, optimizing websites for search engines, and creating engaging online experiences. Unlock the full potential of your online business with Funnel Builder. Contact us today to get started on your journey to success!",
+        "image1": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686812990/FB1_odsthg.png",
+        "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686812980/FB2_ojguwd.png",
+        "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686812991/FB3_diytvo.png",
+        "backgroundColor": "#513178",
+        "buttonColor": "#ffc020"
+    },
+
+    {
+        "id": 3,
+        "logo": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1670125706/WHITE-BG-1024x1024_mwkxxw.png",
+        "brandname":"Powerbuilt Corporation",
+        "details": "A leading provider of construction supplies, machinery, and tools in NCR, Philippines. With a decade of industry experience, we offer high-quality products to meet your construction needs. From building materials to heavy machinery, our dedicated team is here to support your projects. Choose PowerBuilt Corporation for reliable solutions and exceptional service. Power your construction projects with us today.",
+        "image1": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686814453/PB1_pqa0rk.png",
+        "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686814464/PB2_yjp3n9.png",
+        "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686814464/PB3_gjcfa5.png",
+        "backgroundColor": "#a83838",
+        "buttonColor": "#292929"
+    },
+
+    {
+        "id": 4,
+        "logo": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1670125705/BIG-A-1024x1024_g0rf7q.jpg",
+        "brandname":"Big A's Pizza",
+        "details": "Big A's Pizza, located in Bicutan, Taguig City, is your ultimate destination for delicious pizzas and flavorful chicken. With our commitment to using the freshest ingredients and secret family recipes, we craft mouthwatering pizzas that leave you craving for more. Our range of chicken dishes is equally tempting, featuring tangy BBQ and spicy buffalo flavors. Join us at Big A's Pizza for a memorable dining experience filled with great food and friendly service. Come hungry, leave happy.",
+        "image1": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686816163/BA1_egzqzt.png",
+        "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686816175/BA2_xkkldj.png",
+        "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686816178/BA3_b7tkfl.png",
+        "backgroundColor": "#f8931f",
+        "buttonColor": "#006837"
+    },
+
+    {
+        "id": 5,
+        "logo": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686036261/pupculturelogojpg_dc63od.jpg",
+        "brandname":"PupCulture",
+        "details": "Your go-to pet accessory store in the Philippines. We specialize in stylish dog clothes, costumes, accessories, and toys to bring joy and style to your furry friend. From everyday wear to special occasions, we offer a curated selection that suits every breed and size. Join our PupCulture family today and let your pet's unique style shine. Visit us in-store or shop online for the latest trends in pet fashion. PupCulture - where style meets wagging tails!",
+        "image1": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686873818/PC1_dhzyp9.png",
+        "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686873879/PC2_jmxapz.png",
+        "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686873813/PC3_muhf4h.png",
+        "backgroundColor": "#1a2954",
+        "buttonColor": "#f5900c"
+    }
+
+]

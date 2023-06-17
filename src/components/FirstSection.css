@@ -1,0 +1,18 @@
+
+
+.firstSectionContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+
+@media (max-width: 768px) {
+    .firstSectionContainer {
+        padding: 0px 20px;
+
+    }
+
+}
