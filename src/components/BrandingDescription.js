@@ -33,7 +33,9 @@ const BrandingDesciption = ({ onClickDisplayBrand, selectedItem }) => {
                             </h2>
                             <p className="BrandAbout">
                                 {selectedItem.details}
-                            </p>
+                            </p> 
+                            <br>
+                            </br>
                             {/* <button
                                 className="CheckWebsiteButton"
                                 style={{ backgroundColor: buttonColor, color: brandColor }}
