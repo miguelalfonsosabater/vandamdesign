@@ -14,8 +14,8 @@ const FirstSection = () => {
     const BrandItems = Contents;
 
     return (
-        <div className='firstSectionContainer' id='FirstSectionContainer'>
-            <h2 className='H2Container'>SAMPLE WORKS</h2>
+        <div className='firstSectionContainer' >
+            <h2 className='H2Container' id='FirstSectionContainer' >SAMPLE WORKS</h2>
 
             <Carousel items={BrandItems} handleItemClick={handleItemClick} />
 
