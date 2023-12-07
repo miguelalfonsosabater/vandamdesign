@@ -8,7 +8,8 @@
         "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686810408/BH2_zpkvyc.jpg",
         "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686810408/BH3_secvzf.jpg",
         "backgroundColor": "#0c75b8",
-        "buttonColor": "#fbd800"
+        "buttonColor": "#fbd800",
+        "brandLink": "https://miguelsabater.tech/bubble-heaven/"
     },
 
     {
@@ -20,7 +21,8 @@
         "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686812980/FB2_ojguwd.png",
         "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686812991/FB3_diytvo.png",
         "backgroundColor": "#513178",
-        "buttonColor": "#ffc020"
+        "buttonColor": "#ffc020",
+        "link": "https://miguelsabater.tech/funnel-builder/"
     },
 
     {
@@ -32,7 +34,8 @@
         "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686814464/PB2_yjp3n9.png",
         "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686814464/PB3_gjcfa5.png",
         "backgroundColor": "#a83838",
-        "buttonColor": "#292929"
+        "buttonColor": "#292929",
+        "link": ""
     },
 
     {
@@ -44,7 +47,8 @@
         "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686816175/BA2_xkkldj.png",
         "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686816178/BA3_b7tkfl.png",
         "backgroundColor": "#f8931f",
-        "buttonColor": "#006837"
+        "buttonColor": "#006837",
+        "link": "https://miguelsabater.tech/big-a-pizza/"
     },
 
     {
@@ -56,7 +60,8 @@
         "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686873879/PC2_jmxapz.png",
         "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686873813/PC3_muhf4h.png",
         "backgroundColor": "#1a2954",
-        "buttonColor": "#f5900c"
+        "buttonColor": "#f5900c",
+        "link": ""
     }
 
 ]

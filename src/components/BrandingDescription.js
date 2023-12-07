@@ -6,6 +6,7 @@ const BrandingDesciption = ({ onClickDisplayBrand, selectedItem }) => {
 
     const brandColor = selectedItem.backgroundColor
     const buttonColor = selectedItem.buttonColor
+    const brandLink = selectedItem.brandLink
 
 
 
@@ -36,12 +37,17 @@ const BrandingDesciption = ({ onClickDisplayBrand, selectedItem }) => {
                             </p> 
                             <br>
                             </br>
-                            {/* <button
+                            <a 
+                            href={brandLink} 
+                            target="_blank">
+                            <button
                                 className="CheckWebsiteButton"
                                 style={{ backgroundColor: buttonColor, color: brandColor }}
+                                
                             >
                                 CHECK THE WEBSITE
-                            </button> */}
+                            </button>
+                            </a>
 
                         </div>
 
