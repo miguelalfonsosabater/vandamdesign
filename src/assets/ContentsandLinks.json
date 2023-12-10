@@ -62,6 +62,45 @@
         "backgroundColor": "#1a2954",
         "buttonColor": "#f5900c",
         "link": ""
+    } ,
+
+    {
+        "id": 6,
+        "logo": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1702190573/SliderPuzzleLogo_m9qzmq.jpg",
+        "brandname":"Slider Puzzle",
+        "details": "Welcome to Slider Puzzle, a captivating and brain-teasing game that will put your puzzle-solving skills to the test! Immerse yourself in this classic sliding puzzle experience, where the goal is to rearrange the shuffled pieces and recreate the original image. This game is not just about luck; it demands strategic thinking and a keen eye for patterns.",
+        "image1": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1702191174/sliderPuzzleImage1_v2oqvu.jpg",
+        "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1702191174/sliderPuzzleImage3_utclhg.jpg",
+        "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1702191174/sliderPuzzleImage2_gjz5c9.jpg",
+        "backgroundColor": "#da44f0",
+        "buttonColor": "#fffc00",
+        "link": "https://puzzlegame-one.vercel.app/"
+    } ,
+
+    {
+        "id": 7,
+        "logo": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1702190443/Untitled_design_6_aapptk.png",
+        "brandname":"Donichesion",
+        "details": "Non-profit organization whose solely purpose is to support all Filipinos. Illustration of optimism that depicts and describes the difficulties and hardships battled by a Filipino. Donichesion aim to continue mission and passion for serving the Filipino people while helping to promote social welfare.",
+        "image1": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1702192650/donichesionImage1_ckhxmt.png",
+        "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1702192650/donichesionImage2_wd3fcl.png",
+        "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1702192651/donichesionImage3_ywpezx.png",
+        "backgroundColor": "#254017",
+        "buttonColor": "#fece08",
+        "link": "https://donichesion.vercel.app/"
+    } ,
+
+    {
+        "id": 8,
+        "logo": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1702190441/Untitled_design_7_wkvc9x.png",
+        "brandname":"Saver App",
+        "details": "This proposed project is a safe, reliable and multifunctional application that can be used during emergency situations. This app is associated with different Emergency Response Team/Department of government associations like Hospitals, BFP, Police Department etc., to assist and respond to everybody's emergency needs.",
+        "image1": "",
+        "image2": "",
+        "image3": "",
+        "backgroundColor": "#b9002a",
+        "buttonColor": "#ffb900",
+        "link": "https://saver-miguelalfonsosabater.vercel.app/"
     }
 
 ]
