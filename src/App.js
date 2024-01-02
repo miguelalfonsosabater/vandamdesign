@@ -9,7 +9,6 @@ import ContactSection from "./components/ContactSection";
 function App() {
 
 
-
   return (
     <div className="App">
     <NavigationBar />
@@ -19,7 +18,10 @@ function App() {
     <ContactSection />
 
     </div>
+
+
   );
 }
+
 
 export default App;
