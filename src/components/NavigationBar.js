@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './NavigationBar.css'
 
-import resume from "../assets/SABATERMIGUELALFONSO0623.pdf"
+import resume from "../assets/SABATERMIGUELALFONSO010424.pdf"
 
 const NavigationBar = () => {
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);

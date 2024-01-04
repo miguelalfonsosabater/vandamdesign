@@ -22,7 +22,7 @@
         "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686812991/FB3_diytvo.png",
         "backgroundColor": "#513178",
         "buttonColor": "#ffc020",
-        "link": "https://miguelsabater.tech/funnel-builder/"
+        "brandLink": "https://miguelsabater.tech/funnel-builder/"
     },
 
     {
@@ -35,7 +35,7 @@
         "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686814464/PB3_gjcfa5.png",
         "backgroundColor": "#a83838",
         "buttonColor": "#292929",
-        "link": ""
+        "brandLink": ""
     },
 
     {
@@ -48,7 +48,7 @@
         "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686816178/BA3_b7tkfl.png",
         "backgroundColor": "#f8931f",
         "buttonColor": "#006837",
-        "link": "https://miguelsabater.tech/big-a-pizza/"
+        "brandLink": "https://miguelsabater.tech/big-a-pizza/"
     },
 
     {
@@ -61,7 +61,7 @@
         "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1686873813/PC3_muhf4h.png",
         "backgroundColor": "#1a2954",
         "buttonColor": "#f5900c",
-        "link": ""
+        "brandLink": ""
     } ,
 
     {
@@ -74,7 +74,7 @@
         "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1702191174/sliderPuzzleImage2_gjz5c9.jpg",
         "backgroundColor": "#da44f0",
         "buttonColor": "#fffc00",
-        "link": "https://puzzlegame-one.vercel.app/"
+        "brandLink": "https://puzzlegame-one.vercel.app/"
     } ,
 
     {
@@ -87,7 +87,7 @@
         "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1702192651/donichesionImage3_ywpezx.png",
         "backgroundColor": "#254017",
         "buttonColor": "#fece08",
-        "link": "https://donichesion.vercel.app/"
+        "brandLink": "https://donichesion.vercel.app/"
     } ,
 
     {
@@ -95,12 +95,12 @@
         "logo": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1702190441/Untitled_design_7_wkvc9x.png",
         "brandname":"Saver App",
         "details": "This proposed project is a safe, reliable and multifunctional application that can be used during emergency situations. This app is associated with different Emergency Response Team/Department of government associations like Hospitals, BFP, Police Department etc., to assist and respond to everybody's emergency needs.",
-        "image1": "",
-        "image2": "",
-        "image3": "",
+        "image1": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1704351436/123_456_7890_2_pktmk8.png",
+        "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1704351435/123_456_7890_lwdseb.jpg",
+        "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1704351436/123_456_7890_1_i0oogx.png",
         "backgroundColor": "#b9002a",
         "buttonColor": "#ffb900",
-        "link": "https://saver-miguelalfonsosabater.vercel.app/"
+        "brandLink": "https://saver-miguelalfonsosabater.vercel.app/"
     }
 
 ]
