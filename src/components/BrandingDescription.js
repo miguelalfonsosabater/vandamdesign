@@ -39,11 +39,13 @@ const BrandingDesciption = ({ onClickDisplayBrand, selectedItem }) => {
                             </br>
                             <a 
                             href={brandLink}
+                            target="_blank"
+                            rel="noreferrer"
                             >
                             <button
                                 className="CheckWebsiteButton"
                                 style={{ backgroundColor: buttonColor, color: brandColor }}
-                            >
+                            > 
                                 CHECK THE WEBSITE
                             </button>
                             </a>
