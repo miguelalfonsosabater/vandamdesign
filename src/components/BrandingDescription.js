@@ -6,7 +6,6 @@ const BrandingDesciption = ({ onClickDisplayBrand, selectedItem }) => {
 
     const brandColor = selectedItem.backgroundColor
     const buttonColor = selectedItem.buttonColor
-    const brandLink = selectedItem.brandLink
 
 
 
@@ -38,7 +37,7 @@ const BrandingDesciption = ({ onClickDisplayBrand, selectedItem }) => {
                             <br>
                             </br>
                             <a 
-                            href={brandLink}
+                            href={selectedItem.brandLink}
                             target="_blank"
                             rel="noreferrer"
                             >
