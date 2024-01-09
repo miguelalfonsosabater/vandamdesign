@@ -1,5 +1,17 @@
 [
     {
+        "id": 0,
+        "logo": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1704783452/HB2LOGO_cb7sfy.webp",
+        "brandname":"How Best 2",
+        "details": "Your go-to hub for a balanced and joyful life! We're here to help you Have Fun, Be Happy, Make Money, and Stay Healthy. Explore our user-friendly platform for tips on boosting your income, staying fit, and injecting more joy into your daily routine. Join our community, and let's achieve your goals together at How Best 2.",
+        "image1": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1704783452/posterhb23_fao0o8.webp",
+        "image2": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1704783452/posterhb21_upf12t.webp",
+        "image3": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1704783453/posterhb22_lcjsdf.webp",
+        "backgroundColor": "#ac3440",
+        "buttonColor": "#112c4a",
+        "brandLink": "https://howbest2.com/"
+    },
+    {
         "id": 1,
         "logo": "https://res.cloudinary.com/dsn8zvh4a/image/upload/v1670125705/BUBBLE-HEAVEN-1SADASDAS-1024x1024_umqiv7.jpg",
         "brandname":"Buble Heaven",

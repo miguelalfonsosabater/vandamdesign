@@ -65,6 +65,13 @@
     width: 600px;
 }
 
+.hobbyButtonContainer{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
 
 
 @media (max-width: 768px) {
