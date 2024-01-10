@@ -23,7 +23,7 @@ const SecondSection = () => {
                     <h2 className="nameContainer"> MIGUEL ALFONSO SABATER</h2>
                     <h3 className="titleContainer"> Graphic Designer | Web Developer </h3>
                     <p className="aboutContentContainer">
-                    I am a skilled graphic designer and web developer with seven years in design and three years in web development. Holding a degree in Business with a major in Marketing Management, I excel in understanding consumer behavior and crafting effective marketing strategies. My expertise extends to brand management, events coordination, and social media management. For ym Hobbies, I enjoy :
+                    I am a skilled graphic designer and web developer with seven years in design and three years in web development. Holding a degree in Business with a major in Marketing Management, I excel in understanding consumer behavior and crafting effective marketing strategies. My expertise extends to brand management, events coordination, and social media management. For my Hobbies, I enjoy :
                         <br></br>
                         <br></br>
                         <div className="hobbyButtonContainer">
